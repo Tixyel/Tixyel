@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://discord.com/users/265924886461939712
+
 <!--
 **Tixyel/Tixyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
