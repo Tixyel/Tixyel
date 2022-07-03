@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<a href="https://discord.com/users/793343792048635924"><img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/265924886461939712?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
+## 📋 Profile
+
+Hey there, I'm Cauã "Tixyel", a 18yo guy from Brazil 🥖 <br/><br/>having fun making bots for Discor
 
 <!--
 **Tixyel/Tixyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
