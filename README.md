@@ -2,7 +2,7 @@
 
 ## 📋 Profile
 
-Hey there, I'm Cauã "Tixyel", a 18yo guy from Brazil 🥖 <br/><br/>having fun making bots for Discor
+Hey there, I'm Cauã "Tixyel", a 18yo guy from Brazil 🥖 <br/><br/>having fun making bots for Discord
 
 <!--
 **Tixyel/Tixyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
