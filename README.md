@@ -6,4 +6,4 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tixyel)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vulgotixyel/)
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=793343792048635924)
+[![Discord](https://lanyard.cnrad.dev/api/793343792048635924?bg=0c0c1e&borderRadius=20px&animated=true&idleMessage="Estou%20fazendo%20nada%20agora...")](https://discord.com/users/793343792048635924)
