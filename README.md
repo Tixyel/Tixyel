@@ -5,3 +5,5 @@
 [![Git hub](https://img.shields.io/static/v1?label=GITHUB&message=Tixyel&color=f8efd4&style=for-the-badge&logo=GitHub)](https://github.com/Tixyel?tab=repositories)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tixyel)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vulgotixyel/)
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=793343792048635924)
