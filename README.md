@@ -4,7 +4,7 @@
 <br>
 <hr>
 <p align="center">
-  <a target="_blank" href="https://discord.com/users/793343792048635924"><img href="https://discord.com/users/793343792048635924" src="https://lanyard.cnrad.dev/api/793343792048635924?bg=0c0c1e&borderRadius=20px&animated=true&idleMessage="Estou%20fazendo%20nada%20agora..."" width="450px"></a>
+  <a target="_blank" href="https://discord.com/users/793343792048635924"><img href="https://discord.com/users/793343792048635924" src="https://lanyard.cnrad.dev/api/793343792048635924?bg=0c0c1e&borderRadius=20px&animated=true&idleMessage='Estou%20fazendo%20nada%20agora...'" width="450px"></a>
 </p>
 <hr>
 <p align="center">
