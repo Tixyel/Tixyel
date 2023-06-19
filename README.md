@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode">
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&bg_color=0c0c1e&text_color=f5c6ff&title_color=ff3075&border_color=0c0c1e&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)<br>
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tixyel&hide=html&layout=compact=true&bg_color=0c0c1e&text_color=f5c6ff&title_color=ff3075&border_color=0c0c1e&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)<br>
 <br>
 <hr>
 <p align="center">
