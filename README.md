@@ -10,5 +10,5 @@
 <p align="center">
   <a target="_blank" href="https://github.com/Tixyel?tab=repositories"><img src="https://img.shields.io/static/v1?label=GITHUB&message=Tixyel&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Github"></a>
   <a target="_blank" href="https://twitter.com/Tixyel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a target="_blank" href="https://www.instagram.com/vulgotixyel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a target="_blank" href="https://www.instagram.com/cauatixyel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
